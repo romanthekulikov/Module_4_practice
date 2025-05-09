@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Module_4_practice</string>
+    <string name="button_text_back">Назад</string>
+    <string name="button_text_forward">Вперед</string>
+</resources>

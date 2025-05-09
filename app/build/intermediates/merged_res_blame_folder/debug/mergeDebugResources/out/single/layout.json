@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-mergeDebugResources-40:\\layout\\fragment_3.xml",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\layout\\fragment_3.xml"
+    },
+    {
+        "merged": "com.roman_kulikov.module_4_practice.app-mergeDebugResources-40:/layout/fragment_1.xml",
+        "source": "com.roman_kulikov.module_4_practice.app-main-43:/layout/fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-mergeDebugResources-40:\\layout\\fragment_1.xml",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-mergeDebugResources-40:\\layout\\fragment_2.xml",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\layout_fragment_1.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\layout_fragment_2.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\drawable_ic_charging.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\drawable\\ic_charging.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-debug-41:\\layout_fragment_3.xml.flat",
+        "source": "C:\\Users\\gadam\\.gradle\\daemon\\8.9\\com.roman_kulikov.module_4_practice.app-main-43:\\layout\\fragment_3.xml"
+    },
+    {
+        "merged": "com.roman_kulikov.module_4_practice.app-debug-41:/layout_fragment_1.xml.flat",
+        "source": "com.roman_kulikov.module_4_practice.app-main-43:/layout/fragment_1.xml"
+    }
+]
